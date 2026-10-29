@@ -100,3 +100,14 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+
+Sound Effect Lab / 効果音ラボ
+==============================
+シャキーン3、ジャン！、レベルアップ、可愛く輝く1 の短縮版をゲームのイベント音として組み込んでいます。著作権は効果音ラボに帰属し、ソフトウェアライセンスの対象ではありません。素材単体の再配布・素材集化・直リンク・AI学習用途・独占的権利登録は禁止されています。音源の独立配布はしていません。
+掲載ページ: https://soundeffect-lab.info/sound/anime/
+利用規約: https://soundeffect-lab.info/agreement/
+FAQ: https://soundeffect-lab.info/faq/
+
+Sora Sans
+==============================
+Noto Sans CJKから必要な文字を抽出して名称を変更したローカルフォントです。SIL Open Font License 1.1。著作権表示・全文は review2/FONT-LICENSE.txt に同梱しています。
