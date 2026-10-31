@@ -111,3 +111,13 @@ FAQ: https://soundeffect-lab.info/faq/
 Sora Sans
 ==============================
 Noto Sans CJKから必要な文字を抽出して名称を変更したローカルフォントです。SIL Open Font License 1.1。著作権表示・全文は review2/FONT-LICENSE.txt に同梱しています。
+
+
+Supplied BGM / scene SE / synthesized basic SE
+==============================
+The 2026-10-31 game release also uses the supplied SUNO BGM, Sansei R&D GARO archive scene sounds, and eight supplied synthesized basic cues. These audio assets are not covered by the software MIT licenses above. See AUDIO_NOTICE.txt and about.html for provenance, source links and game-use scope. Original rights and applicable source terms are retained.
+
+Mahjong tile artwork
+==============================
+Existing tile artwork credit: 麻雀学習帳 assets74 / https://mj-st.com/
+The existing 66x90 artwork is retained; no new tile artwork is added in this release.

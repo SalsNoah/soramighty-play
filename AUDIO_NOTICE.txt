@@ -1,0 +1,38 @@
+ソラ・マイティ 音源の権利表示（2026-10-31）
+
+この配信はゲームの実行用です。素材集や音源単体の再配布を目的としません。
+以下の音源はReact等のMITライセンスの対象ではなく、各権利者の権利・条件を保持します。
+
+SUNO BGM
+Mahjong Sparkle / The Contradiction(1)
+ゲーム制作者が有料プランで作成したと申告し、提供・ゲームへの公開組込みを承認した音源です。
+配信ファイル: audio/sora-bgm-normal.mp3, audio/sora-bgm-riichi.mp3
+提供原本を切断・再エンコードせず使用しています。音量調整は再生時に行います。
+公式利用案内: https://help.suno.com/en/articles/9601665
+利用規約: https://suno.com/terms
+SUNOによる本ゲームの公認・推奨を示すものではありません。
+
+サンセイR&D / パチンコ牙狼アーカイブ
+制作者が指定の公式配布ページから取得したと申告・提供した場面効果音をゲーム用に使用しています。
+白ツモ、ポイント10以上、ポイント15以上、リアルでのあがり、アリス一枚で3ポイント獲得、役満和了。
+配信ファイル: audio/white-draw.mp3, audio/points-10.mp3, audio/points-15.mp3,
+audio/normal-win.m4a, audio/alice-single-three.mp3, audio/yakuman-win.mp3
+通常和了のM4Aは提供MP4から音声のみをstream copyしたものです。再エンコード・切断はしていません。
+配布ページの個別の利用案内（商用・非商用の利用）に基づくゲーム内使用です。
+音源の著作権等は各権利者に帰属し、本ゲームのコードライセンスで再許諾しません。
+公式配布ページ: https://www.sansei-rd.com/p_garo_archive/download/sound.html
+一般利用規約: https://www.sansei-rd.com/agreement.html
+先祝音（金）は本ゲームの採用音源に含みません。
+
+ゲーム用の合成SE
+キュイン、パタッ、ドン、コトッ、ピキーン、確定音、チャリ、ズドンの8種。
+制作者提供のsora-mighty-sfxに含まれたMP3を使用。添付生成コードは独自の波形合成と説明しています。
+公開物にはゲームが使うMP3だけを含め、元ZIP・WAV/OGG・生成スクリプトは含めません。
+
+従来の効果音
+効果音ラボ: https://soundeffect-lab.info/sound/anime/
+利用規約: https://soundeffect-lab.info/agreement/
+従来の音声バンク・派生区間はゲーム内利用を維持しています。
+第三者ソフトウェアとその他の素材の表示はTHIRD_PARTY_LICENSES.txtを参照してください。
+
+公開用の白ツモ・10–14点・アリス一枚+3の3ファイルは、非公開の編集履歴等を含むAdobe XMP付加情報だけを除去しました。MPEG音声本体、再生時間、音量、その他の出典・権利情報は変更していません。原本は私有保存で保持しています。
